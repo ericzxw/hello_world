@@ -7,6 +7,7 @@ now I am gonna change some other Markdown syntax:
 `this is a line of code`
 
 Next,
+
 I would like to make a reference of a paragraph using a blockquote:
 >Life is a transient journey through the corridors of existence, where the interplay of choice and circumstance molds our individual narratives. We find ourselves in a perpetual quest to unravel the enigmatic tapestry of reality, seeking purpose and meaning in a world that often appears capricious and chaotic.
 > 
